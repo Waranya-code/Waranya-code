@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Waranya
 - 👀 I’m interested in Analytics and Data Science
-- 🌱 I’m currently learning Python
 - 📫 How to reach me nokyoong.waranya@gmail.com
 
 <!---
